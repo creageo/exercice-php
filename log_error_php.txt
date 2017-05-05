@@ -1,0 +1,7 @@
+[27-Apr-2017 15:41:55 Europe/Berlin] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in /home/user/php/index.php on line 9
+[27-Apr-2017 15:43:02 Europe/Berlin] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in /home/user/php/reponse.php on line 9
+[27-Apr-2017 15:44:19 Europe/Berlin] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in /home/user/php/reponse.php on line 9
+[27-Apr-2017 15:46:54 Europe/Berlin] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in /home/user/php/reponse.php on line 9
+[27-Apr-2017 15:47:02 Europe/Berlin] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in /home/user/php/reponse.php on line 9
+[27-Apr-2017 15:47:47 Europe/Berlin] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in /home/user/php/reponse.php on line 9
+[27-Apr-2017 16:40:22 Europe/Berlin] PHP Notice:  Use of undefined constant e_all - assumed 'e_all' in /home/user/php/reponse.php on line 9
